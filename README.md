@@ -70,5 +70,4 @@ Email: kamblebadal25@gmail.com
 [📥 Download Full Presentation PDF](STOCK%20MARKET.pdf)
 
 
-[📥 Download Full Presentation PDF](STOCK%20MARKET.pdf)
-
+![Stock Market Presentation](%F0%9F%93%88%20Stock%20Market%20Screenshot.png)
