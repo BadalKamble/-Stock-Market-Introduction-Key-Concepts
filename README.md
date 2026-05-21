@@ -2,9 +2,6 @@
 
 Financial Literacy Presentation | 11 Slides | NSE · BSE · SEBI · Investment Strategies
 
-Show Image
-📥 Download Full Presentation PDF
-
 📌 Project Title
 Stock Market — Introduction & Key Concepts Presentation
 
@@ -69,4 +66,9 @@ Presented by: Badal Kamble
 Education: BCA — Dayanand College of Commerce, Latur (SRTMU)
 CGPA: 8.56
 Email: kamblebadal25@gmail.com
+
+[📥 Download Full Presentation PDF](STOCK%20MARKET.pdf)
+
+
+[📥 Download Full Presentation PDF](STOCK%20MARKET.pdf)
 
