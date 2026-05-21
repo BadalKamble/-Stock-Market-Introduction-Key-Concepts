@@ -1,4 +1,4 @@
-📈 Stock Market — Introduction & Key Concepts
+📈 Stock Market — Introduction & Key Concepts       [📥 Download Full Presentation PDF](STOCK%20MARKET.pdf)
 
 Financial Literacy Presentation | 11 Slides | NSE · BSE · SEBI · Investment Strategies
 
